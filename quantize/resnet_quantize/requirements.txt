@@ -1,0 +1,7 @@
+furiosa-sdk[quantize]
+numpy
+onnx
+torch
+torchvision
+tqdm
+scipy
